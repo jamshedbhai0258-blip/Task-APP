@@ -1,8 +1,9 @@
 {
   "name": "STA Task Manager",
   "short_name": "STA",
-  "description": "Smart task manager with reminders, repeating timetable, and dashboard analytics.",
+  "description": "Smart task manager with reminders, repeating timetable, dashboard analytics and mobile install support.",
   "start_url": "/",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
